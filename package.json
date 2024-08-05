@@ -37,6 +37,11 @@
                 "label": "C/C++ Theme Light",
                 "uiTheme": "vs",
                 "path": "./themes/ccpp_theme_light.json"
+            },
+            {
+                "label": "C/C++ Theme tokyo night storm",
+                "uiTheme": "vs",
+                "path": "./themes/ccpp_theme_tokyo_night_altsyn.json"
             }
         ]
     }
